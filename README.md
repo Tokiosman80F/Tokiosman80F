@@ -29,10 +29,10 @@
 | **Picture TV Media** · New York, NY | Took a client prototype to a full media platform for events, video, bookings and sponsors. Added an AI chatbot and upgraded to a patched Next.js. |
 | **Redaxify** · Logic Matrix LLC, US | Built three interfaces for an AI redaction platform. |
 
-Full case studies on **[tokiosman-porfolio.vercel.app](https://tokiosman-porfolio.vercel.app)**
+Full case studies on **[tokiosman.com](https://tokiosman.com)**
 
 ## Let's Work Together
 
-[![Book a call](https://img.shields.io/badge/Book_a_free_30--min_call-FDF175?style=for-the-badge&logo=cal.com&logoColor=121212)](https://cal.com/tokiosman/project-call) [![Portfolio](https://img.shields.io/badge/Portfolio-121211?style=for-the-badge&logo=vercel&logoColor=F3F2ED)](https://tokiosman-porfolio.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-121211?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/tokiosman/) [![Email](https://img.shields.io/badge/tokiosman@outlook.com-121211?style=for-the-badge&logo=microsoftoutlook&logoColor=F3F2ED)](mailto:tokiosman@outlook.com)
+[![Book a call](https://img.shields.io/badge/Book_a_free_30--min_call-FDF175?style=for-the-badge&logo=cal.com&logoColor=121212)](https://cal.com/tokiosman/project-call) [![Portfolio](https://img.shields.io/badge/Portfolio-121211?style=for-the-badge&logo=vercel&logoColor=F3F2ED)](https://tokiosman.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-121211?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/tokiosman/) [![Email](https://img.shields.io/badge/tokiosman@outlook.com-121211?style=for-the-badge&logo=microsoftoutlook&logoColor=F3F2ED)](mailto:tokiosman@outlook.com)
 
 Thanks for visiting!
