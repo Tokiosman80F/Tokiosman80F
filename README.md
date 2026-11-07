@@ -18,9 +18,7 @@
 
 ## Tech Stack
 
-![Next JS](https://img.shields.io/badge/Next.js-121211?style=for-the-badge&logo=next.js&logoColor=FDF175) ![React](https://img.shields.io/badge/React-121211?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-121211?style=for-the-badge&logo=typescript&logoColor=3178C6) ![NodeJS](https://img.shields.io/badge/Node.js-121211?style=for-the-badge&logo=node.js&logoColor=6DA55F) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-121211?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-121211?style=for-the-badge&logo=shadcnui&logoColor=F3F2ED) ![Redux](https://img.shields.io/badge/Redux-121211?style=for-the-badge&logo=redux&logoColor=764ABC) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-121211?style=for-the-badge&logo=framer&logoColor=F3F2ED) ![GSAP](https://img.shields.io/badge/GSAP-121211?style=for-the-badge&logo=greensock&logoColor=88CE02)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-121211?style=for-the-badge&logo=mongodb&logoColor=47A248) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-121211?style=for-the-badge&logo=postgresql&logoColor=4169E1) ![Supabase](https://img.shields.io/badge/Supabase-121211?style=for-the-badge&logo=supabase&logoColor=3ECF8E) ![Clerk](https://img.shields.io/badge/Clerk-121211?style=for-the-badge&logo=clerk&logoColor=6C47FF) ![Stripe](https://img.shields.io/badge/Stripe-121211?style=for-the-badge&logo=stripe&logoColor=635BFF) ![Zoho](https://img.shields.io/badge/Zoho_CRM-121211?style=for-the-badge&logo=zoho&logoColor=E42527) ![Docker](https://img.shields.io/badge/Docker-121211?style=for-the-badge&logo=docker&logoColor=2496ED) ![Nginx](https://img.shields.io/badge/Nginx-121211?style=for-the-badge&logo=nginx&logoColor=009639) ![AWS](https://img.shields.io/badge/AWS-121211?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900) ![Claude](https://img.shields.io/badge/Claude_AI-121211?style=for-the-badge&logo=claude&logoColor=D97757)
+<img width="100%" src="assets/tech-stack.svg" alt="Tech stack: Next.js, React, TypeScript, Tailwind, shadcn/ui, Redux, Motion, GSAP, Node.js, PostgreSQL, MongoDB, Supabase, Clerk, Stripe, Zoho CRM, Docker, Nginx, AWS, Vercel, Claude AI" />
 
 ## Featured Work
 
@@ -33,6 +31,9 @@ Full case studies on **[tokiosman.com](https://tokiosman.com)**
 
 ## Let's Work Together
 
-[![Book a call](https://img.shields.io/badge/Book_a_free_30--min_call-FDF175?style=for-the-badge&logo=cal.com&logoColor=121212)](https://cal.com/tokiosman/project-call) [![Portfolio](https://img.shields.io/badge/Portfolio-121211?style=for-the-badge&logo=vercel&logoColor=F3F2ED)](https://tokiosman.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-121211?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/tokiosman/) [![Email](https://img.shields.io/badge/tokiosman@outlook.com-121211?style=for-the-badge&logo=microsoftoutlook&logoColor=F3F2ED)](mailto:tokiosman@outlook.com)
+<a href="https://cal.com/tokiosman/project-call"><img height="44" src="assets/btn-call.svg" alt="Book a free 30-min call" /></a>
+<a href="https://tokiosman.com"><img height="44" src="assets/btn-site.svg" alt="tokiosman.com" /></a>
+<a href="https://www.linkedin.com/in/tokiosman/"><img height="44" src="assets/btn-linkedin.svg" alt="LinkedIn" /></a>
+<a href="mailto:tokiosman@outlook.com"><img height="44" src="assets/btn-email.svg" alt="tokiosman@outlook.com" /></a>
 
 Thanks for visiting!
